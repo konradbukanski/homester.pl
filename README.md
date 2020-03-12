@@ -1,2 +1,2 @@
 # buildmenager
-https://konradbukanski.github.io/buildmenager/
+https://konradbukanski.github.io/homester.pl/.
